@@ -1,0 +1,5 @@
+Sekvenciu sa podarilo nacitat
+acgtACGT
+Zmazalo sa 1 podsekvencii, aktualna dlzka je 0
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat

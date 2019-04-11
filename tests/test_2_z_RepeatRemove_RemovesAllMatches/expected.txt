@@ -1,0 +1,10 @@
+Sekvenciu sa podarilo nacitat
+acgtATAagcgtGT
+Zmazalo sa 3 podsekvencii, aktualna dlzka je 8
+acATAagc
+Zmazalo sa 1 podsekvencii, aktualna dlzka je 5
+aAagc
+Zmazalo sa 1 podsekvencii, aktualna dlzka je 2
+gc
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat

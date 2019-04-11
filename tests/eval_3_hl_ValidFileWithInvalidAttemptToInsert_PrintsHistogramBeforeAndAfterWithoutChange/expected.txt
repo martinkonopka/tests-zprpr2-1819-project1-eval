@@ -1,0 +1,10 @@
+Sekvenciu sa podarilo nacitat
+A: 29
+C: 24
+G: 27
+T: 20
+Do sekvencie nie je mozne podsekvenciu vlozit
+A: 29
+C: 24
+G: 27
+T: 20

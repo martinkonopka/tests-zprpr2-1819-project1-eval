@@ -1,0 +1,3 @@
+Sekvenciu sa podarilo nacitat
+1 ---AA--
+2 --AA---

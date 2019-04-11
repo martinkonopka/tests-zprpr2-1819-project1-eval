@@ -1,0 +1,13 @@
+Sekvenciu sa podarilo nacitat
+AacGtGCC
+Podsekvencia vlozena
+ACAacGtGCC
+Zadanu podsekvenciu nie je mozne vypisat
+Podsekvencia vlozena
+ACACAacGtG
+ACACAacGtGC
+ACACAacGtGCC
+Podsekvencia vlozena
+ACACACAacGtGCC
+Podsekvencia vlozena
+ACACACACAacGtGCC

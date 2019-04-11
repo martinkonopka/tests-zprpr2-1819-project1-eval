@@ -1,0 +1,2 @@
+Sekvenciu sa podarilo nacitat
+Zadanu podsekvenciu nie je mozne vypisat

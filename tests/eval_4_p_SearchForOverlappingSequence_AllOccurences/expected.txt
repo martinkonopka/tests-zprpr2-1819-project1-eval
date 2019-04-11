@@ -1,0 +1,6 @@
+Sekvenciu sa podarilo nacitat
+1 ---ACACAC
+3 -ACACACAC
+5 CACACACAC
+7 CACACACA-
+9 CACACA---

@@ -1,0 +1,8 @@
+n
+v
+1 8
+z acgtACGT
+v
+1 8
+v
+1 2

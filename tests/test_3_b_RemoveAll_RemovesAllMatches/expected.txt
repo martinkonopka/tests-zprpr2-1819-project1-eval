@@ -1,0 +1,3 @@
+Sekvenciu sa podarilo nacitat
+AAATTT
+Zadanu podsekvenciu nie je mozne vypisat

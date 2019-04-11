@@ -1,0 +1,4 @@
+Sekvenciu sa podarilo nacitat
+acgtATAagcgtGT
+Zmazalo sa 0 podsekvencii, aktualna dlzka je 14
+acgtATAagcgtGT

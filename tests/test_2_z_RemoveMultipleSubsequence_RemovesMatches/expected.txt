@@ -1,0 +1,6 @@
+Sekvenciu sa podarilo nacitat
+acgtATAagcgtGT
+Zmazalo sa 3 podsekvencii, aktualna dlzka je 8
+acATAagc
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat

@@ -1,0 +1,12 @@
+Sekvenciu sa podarilo nacitat
+acgtACGT
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat
+Sekvenciu sa podarilo nacitat
+acgtACGT
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat
+Sekvenciu sa podarilo nacitat
+acgtACGT
+Zadanu podsekvenciu nie je mozne vypisat
+Zadanu podsekvenciu nie je mozne vypisat

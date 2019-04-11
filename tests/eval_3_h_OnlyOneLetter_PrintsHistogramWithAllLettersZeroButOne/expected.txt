@@ -1,0 +1,5 @@
+Sekvenciu sa podarilo nacitat
+A: 0
+C: 1
+G: 0
+T: 0

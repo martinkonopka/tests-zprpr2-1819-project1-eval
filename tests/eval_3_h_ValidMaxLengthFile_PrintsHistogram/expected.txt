@@ -1,0 +1,5 @@
+Sekvenciu sa podarilo nacitat
+A: 2580
+C: 2465
+G: 2391
+T: 2564
