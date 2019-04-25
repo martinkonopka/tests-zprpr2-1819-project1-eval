@@ -1,4 +1,4 @@
-# Test scenarios for ZPrPr2-1819 project 1 and test 2
+# Tests for evaluation of ZPrPr2-1819 project 1 and test 2
 
 These tests were used for evaluation.
 
